@@ -1,6 +1,44 @@
-.App {
+.card {
+  display: flex;
+  border: #282c34;
+  border-style: solid;
+  margin: 20px 20px 20px 20px;
+  width: 80%;
+  
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.img {
+  height: 100%;
+}
+
+.lang {
+  font-size: 200%;
+  border-style: solid;
+  margin: 20px 20px 20px 20px;
+  width: 80%;
+}
+
+.minmax {
+  font-size: 200%;
+  border-style: solid;
+  margin: 20px 20px 20px 20px;
+  width: 80%;
+}
+
+.box {
+  font-size: 200%;
+  border-style: solid;
+  margin: 20px 20px 20px 20px;
+  width: 80%;
   text-align: center;
 }
+
+
 
 .App-logo {
   height: 40vmin;
@@ -36,3 +74,4 @@
     transform: rotate(360deg);
   }
 }
+
